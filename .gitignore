@@ -1,0 +1,42 @@
+# Системні файли
+.DS_Store
+Thumbs.db
+
+# Папки IDE та редакторів
+.vscode/
+.idea/
+
+# Python (якщо є)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Node.js (якщо використовуєш)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Тимчасові файли
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Збірка / Кеш
+dist/
+build/
+.cache/
+
+# Архіви
+*.zip
+*.rar
+*.tar
+*.gz
+
+# Локальні середовища
+.env
+.env.local
+.env.*.local
